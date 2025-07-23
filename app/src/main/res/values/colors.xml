@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="primary_color">#6200EE</color>
+    <color name="primary_light">#BB86FC</color>
+    <color name="primary_dark">#3700B3</color>
+
+    <color name="surface_color">#FFFFFF</color>
+    <color name="surface_variant">#F5F5F5</color>
+
+
+    <color name="accent_color">#03DAC6</color>
+    <color name="accent_variant">#018786</color>
+
+    <color name="quiz_background_start">#FFE082</color>
+    <color name="quiz_background_end">#FFC107</color>
+
+    <color name="translucent_overlay">#33000000</color>
+    <color name="translucent_white">#33FFFFFF</color>
+    <color name="shadow_color">#1A000000</color>
+
+    <color name="success_color">#4CAF50</color>
+    <color name="error_color">#F44336</color>
+    <color name="neutral_color">#9E9E9E</color>
+    <color name="divider_color">#E0E0E0</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+
+    <color name="score_card_background">#FAFAFA</color>
+    <color name="button_background">#FFFFFF</color>
+
+
+
+>
+
+
+
+
+
+</resources>
